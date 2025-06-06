@@ -34,14 +34,15 @@ st.markdown('<div class="subtitle">원하는 기능 탭을 눌러주세요~ 🌸
 # 2. 데이터 로드
 with open("grandma_dramas_100.json", encoding="utf-8") as f:
     data = json.load(f)
-with open(BASE + "final_drama_schedule_updated.json", encoding="utf-8") as f:
+with open("final_drama_schedule_updated.json", encoding="utf-8") as f:
     live_schedule = json.load(f)
-with open(BASE + "upcoming_dramas_schedule.json", encoding="utf-8") as f:
+with open("upcoming_dramas_schedule.json", encoding="utf-8") as f:
     upcoming_schedule = json.load(f)
-with open(BASE + "popular_dramas_updated.json", encoding="utf-8") as f:
+with open("popular_dramas_updated.json", encoding="utf-8") as f:
     popular_list = json.load(f)
-with open(BASE + "drama_image_urls.json", encoding="utf-8") as f:
+with open("drama_image_urls.json", encoding="utf-8") as f:
     image_map = json.load(f)
+
 
 for d in all_dramas:
     d["image_url"] = image_map.get(d["programName"])
