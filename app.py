@@ -34,6 +34,7 @@ st.markdown('<div class="subtitle">원하는 기능 탭을 눌러주세요~ 🌸
 # 2. 데이터 로드
 with open("grandma_dramas_100.json", encoding="utf-8") as f:
     data = json.load(f)
+    all_dramas = data 
 with open("final_drama_schedule_updated.json", encoding="utf-8") as f:
     live_schedule = json.load(f)
 with open("upcoming_dramas_schedule.json", encoding="utf-8") as f:
