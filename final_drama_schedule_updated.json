@@ -1,0 +1,220 @@
+[
+  {
+    "programName": "이혼보험",
+    "broadcaster": "tvN",
+    "summary":"최고의 브레인만 모여 있는 플러스 손해보험 혁신상품개발팀에서 '이혼보험' 상품을 선보이며 벌어지는 순수 보장형 오피스 로코",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday"
+    ],
+    "startTime": "20:50",
+    "startDate": "2025-05-31",
+    "endDate": "2025-07-12",
+    "actors": [
+      "이동욱",
+      "이주빈",
+      "이광수",
+      "이다희",
+      "주소정"
+    ],
+    "요일": "월, 화"
+  },
+  {
+    "programName": "디어엠(Dear.M)",
+    "broadcaster": "KBS Joy",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday"
+    ],
+    "startTime": "21:50",
+    "startDate": "2025-04-14",
+    "endDate": "2025-05-26",
+    "actors": [
+      "박혜수",
+      "재현",
+      "노정의",
+      "배현성",
+      "이진혁"
+    ],
+    "요일": "월, 화"
+  },
+  {
+    "programName": "허식당",
+    "broadcaster": "MBN PLUS",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday"
+    ],
+    "startTime": "21:00",
+    "startDate": "2025-03-24",
+    "endDate": "2025-04-28",
+    "actors": [
+      "시우민",
+      "엑시",
+      "이세온",
+      "이수민"
+    ],
+    "요일": "월, 화"
+  },
+  {
+    "programName": "친절한 선주씨",
+    "broadcaster": "MBC",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "startTime": "19:05",
+    "startDate": "2024-11-18",
+    "endDate": "2025-05-05",
+    "actors": [
+      "심이영",
+      "송창의",
+      "최정윤",
+      "정영섭",
+      "이효춘"
+    ],
+    "요일": "월, 화, 수, 목, 금"
+  },
+  {
+    "programName": "바니와 오빠들",
+    "broadcaster": "MBC",
+    "dayOfWeek": [
+      "Friday",
+      "Saturday"
+    ],
+    "startTime": "21:50",
+    "startDate": "2025-04-11",
+    "endDate": "2025-05-23",
+    "actors": [
+      "노정의",
+      "이채민",
+      "조준영",
+      "김현진",
+      "홍민기"
+    ],
+    "요일": "금, 토"
+  },
+  {
+    "programName": "독수리 5형제를 부탁해!",
+    "broadcaster": "KBS2",
+    "dayOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "startTime": "20:00",
+    "startDate": "2025-02-01",
+    "endDate": "2025-07-26",
+    "actors": [
+      "엄지원",
+      "안재욱",
+      "최대철",
+      "김동완",
+      "윤박"
+    ],
+    "요일": "토, 일"
+  },
+  {
+    "programName": "언젠가는 슬기로울 전공의생활",
+    "broadcaster": "tvN",
+    "dayOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "startTime": "21:20",
+    "startDate": "2025-04-12",
+    "endDate": "2025-05-24",
+    "actors": [
+      "고윤정",
+      "신시아",
+      "강유석",
+      "한예지",
+      "정준원"
+    ],
+    "요일": "토, 일"
+  },
+  {
+    "programName": "신데렐라 게임",
+    "broadcaster": "KBS2",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "startTime": "19:50",
+    "startDate": "2024-12-02",
+    "endDate": "2025-04-28",
+    "actors": [
+      "나영희",
+      "한그루",
+      "최상",
+      "지수원",
+      "김혜옥"
+    ],
+    "요일": "월, 화, 수, 목, 금"
+  },
+  {
+    "programName": "대운을 잡아라",
+    "broadcaster": "KBS1",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "startTime": "20:30",
+    "startDate": "2025-04-14",
+    "endDate": "2025-09-29",
+    "actors": [
+      "손창민",
+      "성우재덕",
+      "박상면",
+      "이아현",
+      "오영실"
+    ],
+    "요일": "월, 화, 수, 목, 금"
+  },
+  {
+    "programName": "신병3",
+    "broadcaster": "ENA",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday"
+    ],
+    "startTime": "22:00",
+    "startDate": "2025-04-07",
+    "endDate": "2025-04-29",
+    "actors": [
+      "김민호",
+      "김동준",
+      "오대환",
+      "남태우",
+      "김요한"
+    ],
+    "요일": "월, 화"
+  },
+  {
+    "programName": "빌런의 나라",
+    "broadcaster": "KBS2",
+    "dayOfWeek": [
+      "Wednesday",
+      "Thursday"
+    ],
+    "startTime": "21:50",
+    "startDate": "2025-03-19",
+    "endDate": "2025-06-11",
+    "actors": [
+      "오나라",
+      "소유진",
+      "서현철",
+      "송진우",
+      "박영규"
+    ],
+    "요일": "수, 목"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "programName": "귀궁",
+    "broadcaster": "SBS",
+    "dayOfWeek": [
+      "Friday",
+      "Saturday"
+    ],
+    "startTime": "21:50",
+    "startDate": "2025-04-18",
+    "endDate": "2025-06-13",
+    "actors": [
+      "육성재",
+      "김지연",
+      "김지훈",
+      "김상호",
+      "한소은"
+    ],
+    "요일": "금, 토"
+  },
+  {
+    "programName": "렛츠댄스",
+    "broadcaster": "KBS1",
+    "dayOfWeek": [
+      "Friday"
+    ],
+    "startTime": "12:55",
+    "startDate": "2025-04-18",
+    "endDate": null,
+    "actors": [
+      "이채연",
+      "지석",
+      "김동한"
+    ],
+    "요일": "금"
+  },
+  {
+    "programName": "천국보다 아름다운",
+    "broadcaster": "JTBC",
+    "dayOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "startTime": "22:40",
+    "startDate": "2025-04-19",
+    "endDate": "2025-05-31",
+    "actors": [
+      "김혜자",
+      "손석구",
+      "한지민",
+      "이정은",
+      "천호진"
+    ],
+    "요일": "토, 일"
+  },
+  {
+    "programName": "여왕의 집",
+    "broadcaster": "KBS2",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "startTime": "19:50",
+    "startDate": "2025-04-28",
+    "endDate": "2025-09-15",
+    "actors": [
+      "함은정",
+      "서준영",
+      "박윤재",
+      "이가령",
+      "이보희"
+    ],
+    "요일": "월, 화, 수, 목, 금"
+  },
+  {
+    "programName": "24시 헬스클럽",
+    "broadcaster": "KBS2",
+    "dayOfWeek": [
+      "Wednesday",
+      "Thursday"
+    ],
+    "startTime": "21:50",
+    "startDate": "2025-04-30",
+    "endDate": "2025-06-11",
+    "actors": [
+      "이준영",
+      "정은지",
+      "이미도",
+      "이승우",
+      "박성연"
+    ],
+    "요일": "수, 목"
+  },
+  {
+    "programName": "사계의 봄",
+    "broadcaster": "SBS",
+    "dayOfWeek": [
+      "Tuesday",
+      "Wednesday"
+    ],
+    "startTime": "22:40",
+    "startDate": "2025-05-06",
+    "endDate": "2025-06-10",
+    "actors": [
+      "하유준",
+      "박지후",
+      "이승협",
+      "조한철",
+      "김종태"
+    ],
+    "요일": "화, 수"
+  },
+  {
+    "programName": "금주를 부탁해",
+    "broadcaster": "tvN",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday"
+    ],
+    "startTime": "20:50",
+    "startDate": "2025-05-12",
+    "endDate": "2025-06-23",
+    "actors": [
+      "최수영",
+      "공명",
+      "김성령",
+      "김상호",
+      "조윤희"
+    ],
+    "요일": "월, 화"
+  },
+  {
+    "programName": "굿보이",
+    "broadcaster": "JTBC",
+    "dayOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "startTime": "22:30",
+    "startDate": "2025-05-31",
+    "endDate": "2025-07-26",
+    "actors": [
+      "박보검",
+      "감소현",
+      "오정세",
+      "이상이",
+      "허성태",
+      "태원석"
+    ],
+    "요일": "토, 일"
+  },
+  {
+    "programName": "노무사 노무진",
+    "broadcaster": "MBC",
+    "dayOfWeek": [
+      "Friday",
+      "Saturday"
+    ],
+    "startTime": "21:30",
+    "startDate": "2025-05-30",
+    "endDate": "2025-07-04",
+    "actors": [
+      "설인아",
+      "차학연",
+      "정경호"
+    ],
+    "요일": "금, 토"
+  },
+  {
+    "programName": "남주의 첫날밤을 가져버렸다",
+    "broadcaster": "KBS2",
+    "dayOfWeek": [
+      "Wednesday",
+      "Thursday"
+    ],
+    "startTime": "21:50",
+    "startDate": "2025-06-11",
+    "endDate": "2025-07-17",
+    "actors": [
+      "서현",
+      "옥택연",
+      "권한솔",
+      "서범준",
+      "지혜원"
+    ],
+    "요일": "수, 목"
+  }
+]
