@@ -32,9 +32,8 @@ st.markdown('<div class="title">할머니의 드라마 정원</div>', unsafe_all
 st.markdown('<div class="subtitle">원하는 기능 탭을 눌러주세요~ 🌸</div>', unsafe_allow_html=True)
 
 # 2. 데이터 로드
-BASE = "C:/Users/kimho/OneDrive/바탕 화면/drama_alert/drama/"
-with open(BASE + "grandma_dramas_100.json", encoding="utf-8") as f:
-    all_dramas = json.load(f)
+with open("grandma_dramas_100.json", encoding="utf-8") as f:
+    data = json.load(f)
 with open(BASE + "final_drama_schedule_updated.json", encoding="utf-8") as f:
     live_schedule = json.load(f)
 with open(BASE + "upcoming_dramas_schedule.json", encoding="utf-8") as f:
